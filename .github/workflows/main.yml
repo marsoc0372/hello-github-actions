@@ -6,4 +6,4 @@
     - uses: actions/checkout@v1
     - uses: ./action-a
       env:
-        MY_NAME: "Chris"
+        MY_NAME: "Mona"
